@@ -6,3 +6,4 @@ contains -->
 - cleaned dataset
 - 500 word reflection
 - colab code
+- criteria for A3
