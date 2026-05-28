@@ -1,5 +1,5 @@
 # Emsc2010-A3
-My individual project for EMSC
+My individual project for EMSC2010
 
 This repository contains -->
 - uncleaned dataset
