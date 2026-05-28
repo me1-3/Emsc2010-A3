@@ -1,10 +1,16 @@
 # Emsc2010-A3
 My individual project for EMSC
 
-contains -->
+This repository contains -->
 - uncleaned dataset
 - cleaned dataset
-- 500 word reflection
 - colab code
-- criteria for A3
+- 500 word reflection
 - A3 Poster
+
+To run the code download the cleaned dataset: 
+open the colab ipynb, 
+save a new copy in drive, 
+connect to runtime, 
+upload your cleaned dataset file, 
+press run all.
